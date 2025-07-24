@@ -1,0 +1,27 @@
+.formatStyle {
+  text-align: center;
+  font-size: larger;
+}
+
+
+.label {
+  font-weight: bold;
+}
+
+
+.value {
+  font-weight: normal;
+}
+
+
+.Name { color: blue; }
+.NameVal { color: rgb(153, 153, 255); }
+
+.School { color: crimson; }
+.SchoolVal { color: rgb(255, 153, 153); }
+
+.Total { color: darkmagenta; }
+.TotalVal { color: rgb(221, 160, 221); }
+
+.Score { color: forestgreen; }
+.ScoreVal { color: rgb(144, 238, 144); }
