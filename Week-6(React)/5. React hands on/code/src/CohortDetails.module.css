@@ -1,0 +1,55 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.heading {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.cardContainer {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 20px;
+  width: 260px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+.title {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.label {
+  font-weight: bold;
+  margin-bottom: 3px;
+  text-align: left;
+}
+
+.value {
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+
+
+
