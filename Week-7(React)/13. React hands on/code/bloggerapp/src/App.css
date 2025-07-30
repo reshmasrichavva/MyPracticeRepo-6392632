@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  padding: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.section {
+  padding: 20px;
+  width: 30%;
+}
+
+.with-border {
+  border-left: 5px solid green;
+  padding-left: 20px;
+}
+
